@@ -1,16 +1,9 @@
-# spaced_repetition_app
+# Spaced repetition app
 
-A new Flutter project.
+Spaced repetition is a method of reviewing material at systematic intervals. At the beginning of the learning process, the intervals are spaced closely together (for example, one hour; four hours; one day). As the material is reviewed, the intervals become systematically longer (four days; one week; two weeks).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- create projects (e.g. business english) and add a list of topics you want to repeat (e.g. certain words of even subjects)
+ 
+- app automatically will move topic to the next box if you tap that you remember it; otherwise it will be first in the list
