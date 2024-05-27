@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:spaced_repetition_app/core/styles/themes.dart';
-import 'package:spaced_repetition_app/features/home_page/presentation/home_page.dart';
+import 'package:spaced_repetition_app/features/projects_spaced_repetition/presentation/home_page/home_page.dart';
 
 void main() {
   runApp(const MyApp());
